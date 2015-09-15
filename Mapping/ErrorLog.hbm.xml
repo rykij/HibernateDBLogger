@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="HybernateDBLogger"
+                   namespace="HybernateDBLogger.Domain">
+
+  <!-- ErrorLog table relations-->
+  <class name="ErrorLog">
+    <id name="Id">
+      <generator class="native" />
+    </id>
+    <property name="Message" type="string" length="1000000"/>
+    <property name="Time"/>
+    <property name="StackTrace" />
+  </class>
+  
+</hibernate-mapping>
+

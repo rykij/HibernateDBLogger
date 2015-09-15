@@ -1,0 +1,9 @@
+E:\Projects\HybernateDBLogger\bin\Debug\HybernateDBLogger.dll
+E:\Projects\HybernateDBLogger\bin\Debug\HybernateDBLogger.pdb
+E:\Projects\HybernateDBLogger\bin\Debug\Iesi.Collections.dll
+E:\Projects\HybernateDBLogger\bin\Debug\NHibernate.dll
+E:\Projects\HybernateDBLogger\bin\Debug\Iesi.Collections.xml
+E:\Projects\HybernateDBLogger\bin\Debug\NHibernate.xml
+E:\Projects\HybernateDBLogger\obj\Debug\HybernateDBLogger.dll
+E:\Projects\HybernateDBLogger\obj\Debug\HybernateDBLogger.pdb
+E:\Projects\HybernateDBLogger\bin\Debug\log4net.dll

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="HybernateDBLogger"
+                   namespace="HybernateDBLogger.Domain">
+
+  <!-- DetailLog table relations-->
+  <class name="DetailLog">
+    <id name="Id">
+      <generator class="guid" />
+    </id>
+    <property name="Scenario" />
+    <property name="Message" />
+    <many-to-one name="Error" class="ErrorLog" cascade="all" lazy="false"/>
+    <property name="Time"/>
+    <many-to-one name="Main" column="MainId" lazy="false"/>
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="HybernateDBLogger"
+                   namespace="HybernateDBLogger.Domain">
+
+  <!-- MainLog table relations-->
+  <class name="MainLog">
+    <id name="Id">
+      <generator class="guid" />
+    </id>
+    <property name="Job" />
+    <property name="Scenario" />
+    <property name="Message" />
+    <property name="JobStatus" />
+    <property name="CallingUser" />
+    <many-to-one name="Error" class="ErrorLog" cascade="all" lazy="false"/>
+    <property name="JobStartTime"/>
+    <property name="JobEndTime"/>
+    <bag name="Details" cascade="all" lazy="false" order-by="Time asc">
+      <key column="MainId" />
+      <one-to-many class="DetailLog"/>
+    </bag>
+  </class>
+
+</hibernate-mapping>

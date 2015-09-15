@@ -1,0 +1,12 @@
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\obj\Debug\HybernateDBLoggerTests.csprojResolveAssemblyReference.cache
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\HybernateDBLoggerTests.dll
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\HybernateDBLoggerTests.pdb
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\HybernateDBLogger.dll
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\Iesi.Collections.dll
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\NHibernate.dll
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\log4net.dll
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\HybernateDBLogger.pdb
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\Iesi.Collections.xml
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\bin\Debug\NHibernate.xml
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\obj\Debug\HybernateDBLoggerTests.dll
+E:\Projects\HybernateDBLogger\HybernateDBLoggerTests\obj\Debug\HybernateDBLoggerTests.pdb
