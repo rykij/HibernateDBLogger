@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
-using HybernateDBLogger.Domain;
-using HybernateDBLogger.Utilities;
+using HibernateDBLogger.Domain;
+using HibernateDBLogger.Utilities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NHibernate;
 using NHibernate.Cfg;
 using NHibernate.Tool.hbm2ddl;
-using HybernateDBLogger.Helpers;
+using HibernateDBLogger.Helpers;
 
-namespace HybernateDBLogger.Test
+namespace HibernateDBLogger.Test
 {
     [TestClass]
     public class LoggerTest
@@ -21,7 +21,7 @@ namespace HybernateDBLogger.Test
         static Guid mainGuid;
 
         //TODO: Change DB_NAME
-        static private const string DB_NAME = "DB_NAME";
+        private const string DB_NAME = "DB_NAME";
         
         [ClassInitialize]
         public static void SetUp(TestContext TestContext)

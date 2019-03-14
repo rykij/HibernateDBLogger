@@ -1,8 +1,8 @@
-﻿using HybernateDBLogger.Domain;
+﻿using HibernateDBLogger.Domain;
 using NHibernate;
 using NHibernate.Cfg;
 
-namespace HybernateDBLogger.Helpers
+namespace HibernateDBLogger.Helpers
 {
     public class NHibernateHelper
     {

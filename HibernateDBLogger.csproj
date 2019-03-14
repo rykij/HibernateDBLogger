@@ -7,8 +7,8 @@
     <ProjectGuid>{0D2B3543-D469-4365-93A2-0783278AE676}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HybernateDBLogger</RootNamespace>
-    <AssemblyName>HybernateDBLogger</AssemblyName>
+    <RootNamespace>HibernateDBLogger</RootNamespace>
+    <AssemblyName>HibernateDBLogger</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

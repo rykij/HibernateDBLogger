@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybernateDBLogger", "HybernateDBLogger.csproj", "{0D2B3543-D469-4365-93A2-0783278AE676}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybernateDBLogger", "HibernateDBLogger.csproj", "{0D2B3543-D469-4365-93A2-0783278AE676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybernateDBLoggerTests", "HybernateDBLoggerTests\HybernateDBLoggerTests.csproj", "{DA018316-7AF0-4740-8C81-046F1762CB93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HibernateDBLoggerTests", "HibernateDBLoggerTests\HibernateDBLoggerTests.csproj", "{DA018316-7AF0-4740-8C81-046F1762CB93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

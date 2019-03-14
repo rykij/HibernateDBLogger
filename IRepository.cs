@@ -1,6 +1,6 @@
-﻿using HybernateDBLogger.Domain;
+﻿using HibernateDBLogger.Domain;
 
-namespace HybernateDBLogger
+namespace HibernateDBLogger
 {
     public interface IRepository
     {

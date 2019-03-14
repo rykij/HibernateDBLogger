@@ -1,0 +1,9 @@
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\HibernateDBLogger.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\HibernateDBLogger.pdb
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\Iesi.Collections.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\log4net.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\NHibernate.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\Iesi.Collections.xml
+C:\Users\portolan\Desktop\GitRepo_Rykij\bin\Debug\NHibernate.xml
+C:\Users\portolan\Desktop\GitRepo_Rykij\obj\Debug\HibernateDBLogger.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\obj\Debug\HibernateDBLogger.pdb

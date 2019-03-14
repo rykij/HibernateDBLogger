@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using HybernateDBLogger.Domain;
-using HybernateDBLogger.Helpers;
+using HibernateDBLogger.Domain;
+using HibernateDBLogger.Helpers;
 using NHibernate;
 
-namespace HybernateDBLogger
+namespace HibernateDBLogger
 {
     public class Repository : IRepository
     {

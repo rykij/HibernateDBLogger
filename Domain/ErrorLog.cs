@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HybernateDBLogger.Domain
+namespace HibernateDBLogger.Domain
 {
     //ErrorLog table entity
     public class ErrorLog

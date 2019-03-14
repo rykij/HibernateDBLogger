@@ -1,11 +1,11 @@
 ﻿using System.Configuration;
 
-namespace HybernateDBLogger.Utilities
+namespace HibernateDBLogger.Utilities
 {
     public static class ConfigurationReader
     {
         //TODO: Change default connection string name (see also hibernate.cfg.xml)
-        static readonly const string  DEFAULTCONNECTION = "defaultConnection";
+        const string  DEFAULTCONNECTION = "defaultConnection";
         public static string GetConnectionString()
         {
             return GetConnectionString(DEFAULTCONNECTION);

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HybernateDBLogger.Domain
+namespace HibernateDBLogger.Domain
 {
     //DialogLog table entity
     public class DetailLog

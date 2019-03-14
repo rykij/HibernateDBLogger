@@ -1,7 +1,7 @@
 ﻿using System;
 using log4net;
 
-namespace HybernateDBLogger.Utilities
+namespace HibernateDBLogger.Utilities
 {
     public class Logger<T> where T : class
     {

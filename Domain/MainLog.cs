@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace HybernateDBLogger.Domain
+namespace HibernateDBLogger.Domain
 {
     //MainLog table entity
     public class MainLog

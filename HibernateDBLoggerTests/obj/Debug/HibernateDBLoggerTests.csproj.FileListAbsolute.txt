@@ -1,0 +1,14 @@
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\obj\Debug\HibernateDBLoggerTests.csprojResolveAssemblyReference.cache
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\HibernateDBLoggerTests.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\HibernateDBLoggerTests.pdb
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\HibernateDBLogger.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\Iesi.Collections.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\NHibernate.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\log4net.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\HibernateDBLogger.pdb
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\Iesi.Collections.xml
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\NHibernate.xml
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\obj\Debug\HibernateDBLoggerTests.dll
+C:\Users\portolan\Desktop\GitRepo_Rykij\HibernateDBLoggerTests\obj\Debug\HibernateDBLoggerTests.pdb
